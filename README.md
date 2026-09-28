@@ -377,6 +377,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 **If this helped you get sponsors, please ⭐ star this repo** so other organizers can find it.
 
-Made with ❤️ by [Sachin Chaurasiya](https://github.com/SachinChaurasiya) · [Twitter/X](https://twitter.com/Sachin_2110) · [LinkedIn](https://www.linkedin.com/in/sachin-chaurasiya)
+Made with ❤️ by [Sachin Chaurasiya](https://github.com/SachinChaurasiya) · [Twitter/X](https://twitter.com/Sachindev69) · [LinkedIn](https://www.linkedin.com/in/sachinchaurasiya)
 
 </div>
