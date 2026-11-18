@@ -76,7 +76,6 @@ These companies have public applications, credit programs, or self-serve forms. 
 | **Auth0 / Okta** | Free developer accounts, DevRel engagement, past Devpost sponsorships | [developer.auth0.com](https://developer.auth0.com/) |
 | **Wolfram** | Wolfram|Alpha API keys + Wolfram|One access for participants | [wolfram.com/hackathons](https://www.wolfram.com/hackathons/) · [Request form](https://www.wolfram.com/hackathons/sponsor-request/) |
 | **Groq** | $10 API credits/participant + $300 prize for best Groq project | [console.groq.com/hackathon](https://console.groq.com/hackathon) |
-| **Balsamiq** | Free wireframing licenses for hackathons/classrooms | [balsamiq.com/givingback/free](https://balsamiq.com/givingback/free/) · free@balsamiq.com |
 | **1Password** | Free 1Password Teams for hackathon orgs + developer program | [1password.com/developers](https://1password.com/developers/) · community@1password.com |
 | **JetBrains** | Free 1-year Toolbox license for MLH hackathon participants | [jetbrains.com/student/mlh](https://www.jetbrains.com/student/mlh/) · [Students apply](https://www.jetbrains.com/shop/eform/students) |
 | **Notion** | Free Notion Plus for student orgs and hackathon teams | [notion.com/product/notion-for-education](https://www.notion.com/product/notion-for-education) · [Apply](https://www.notion.so/notion-for-student-orgs-apply) |
@@ -163,7 +162,7 @@ A comprehensive flat list of every company that has sponsored hackathons in Indi
 - BNB Chain · Polygon · ETHIndia · ETHGlobal · Aptos · Tezos India · Web3Auth · Filecoin · DFINITY · AirDAO · Berachain · Bifrost · CoinDCX · DoraHacks · Jumbo Blockchain · Supra Lab · Ton Society of India · xxnetwork · Matic Network · Solidity Scans · QWILL Audit · QuillShield · SecureDApp · Quill AI · ZSecurity · The SecOps Group · Block Se Block · BlockchainHive · Dabl Club · Blockpen · SolCanvas · Cypher · Reclaim · Aspecta.Id · Capex · Starlay · Diamante · AIO Exchange
 
 **Developer Tools & APIs**
-- Postman · JetBrains · Auth0 · Twilio · MongoDB · Appwrite · 1Password · Notion · Balsamiq · Beeceptor · Voiceflow · DhiWise · Taskade · JDoodle · Codecrafters · Pathway · Neurelo · Orkes · DevRev · DevRev AI · Detasecure · Hackquest · CSSBattle · Axure · VERBWIRE · Push · Router · Reclaim
+- Postman · JetBrains · Auth0 · Twilio · MongoDB · Appwrite · 1Password · Notion · Beeceptor · Voiceflow · DhiWise · Taskade · JDoodle · Codecrafters · Pathway · Neurelo · Orkes · DevRev · DevRev AI · Detasecure · Hackquest · CSSBattle · Axure · VERBWIRE · Push · Router · Reclaim
 
 **Big Tech & Enterprise**
 - Adobe · Microsoft · Google · Meta · Cisco · Accenture · Atlassian · IBM · Tech Mahindra · Wipro · Infosys · Persistent · Snowflake · Databricks · Couchbase
